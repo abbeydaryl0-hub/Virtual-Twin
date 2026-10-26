@@ -1,0 +1,16 @@
+# Required libraries for the Virtual Twin project
+#
+# Install all libraries listed here from your activated virtual environment:
+#   python -m pip install -r requirements.txt
+#
+# NumPy: numerical operations and arrays
+numpy
+
+# Matplotlib: charts and data visualization
+matplotlib
+
+# Pandas: tables and data analysis
+pandas
+
+# Note: collections.Counter is part of Python's standard library.
+# It does not need to be installed separately.
